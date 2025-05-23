@@ -19,10 +19,6 @@ I'm a highly experienced Test Automation Developer with over 9 years of dedicate
 * **LinkedIn:** [https://www.linkedin.com/in/jvergara-q/](https://www.linkedin.com/in/jvergara-q/)
 * **Email:** jonathan.vergara.q@gmail.com
 
-## 📄 View My CV
-
-For a detailed overview of my professional experience, skills, and education, please refer to my CV:
-* [CV JONATHAN VERGARA UPDATED.pdf](CV%20JONATHAN%20VERGARA%20UPDATED.pdf)
 
 ---
 
